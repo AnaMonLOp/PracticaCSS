@@ -1,9 +1,26 @@
 
 
-a{
+body{
+    background: white
+}
+
+
+.titulo
+{ 
+    color: green;
+}
+
+.referencia
+{
     color: purple;
     text-decoration:underline;
 }
-img{
+
+.descripcion{
+    color: red;
+}
+
+
+#img{
     width: 500px;
 }
